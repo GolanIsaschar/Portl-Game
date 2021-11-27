@@ -1,7 +1,7 @@
 # Portl-Game
 
 ## Description
-Our implementation of the classic game Aladdin written in C++ by;
+Our implementation of the classic game portal written by C++ and using;
 Class inheritance, Polymorphism, SFML, Singleton design pattern,
 C++ Standard library: vector, map, unordered_map and Box2D - a 2D physics engine.
 
